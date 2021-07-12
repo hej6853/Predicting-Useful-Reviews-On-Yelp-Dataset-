@@ -53,4 +53,9 @@ As you see, some of the classified useful reviews emphasized their feelings with
 
 ![image](https://user-images.githubusercontent.com/79428102/125347855-4ca81d80-e310-11eb-8e37-cc02497e1728.png)
 
+●	Defined 3 issues on the current Yelp review algorithm that caused a bottleneck to improve customer experience and identified the difference between useful and not-useful reviews to solve the business backlog.
+
+●	Created an NLP and software development life cycle-based online review mining with the Naive Bayes algorithm with 94.5% accuracy
+
+
 
